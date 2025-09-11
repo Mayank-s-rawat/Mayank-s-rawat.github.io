@@ -19,4 +19,6 @@ permalink: /experience/
 *London, ON | May 2023 – Present*  
 - Resolved **20+ customer issues daily**.  
 - Achieved **95%+ stock accuracy**.  
-- Managed transactions with **99% accuracy**.  
+- Managed transactions with **99% accuracy**.
+
+---
