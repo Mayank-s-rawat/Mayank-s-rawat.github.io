@@ -1,5 +1,38 @@
-title: Mayank Singh Rawat
-#logo
-#description
-#show_downloads:
-theme: jekyll-theme-minimal
+title: "Mayank Singh Rawat"
+email: "mayanks.rawat18@gmail.com"
+description: "Data Analyst Portfolio – SQL | Python | Power BI"
+baseurl: ""
+url: "https://mayank-s-rawat.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+
+author:
+  name: "Mayank Singh Rawat"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Data Analyst | SQL • Python • Power BI"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:mayanks.rawat18@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/mayank-s-rawat"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mayank-s-rawat"
+
+header_pages:
+  - index.md
+  - _pages/projects.md
+  - _pages/experience.md
+  - _pages/education.md
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
