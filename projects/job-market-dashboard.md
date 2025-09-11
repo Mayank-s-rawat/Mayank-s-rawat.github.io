@@ -24,3 +24,5 @@ This project provides **market intelligence** using scraped data from Indeed (2,
 ## 🔗 Links
 - [GitHub Repository](#)  
 - [Power BI Dashboard](#)  
+
+---
