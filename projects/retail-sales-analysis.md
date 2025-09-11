@@ -25,3 +25,5 @@ This project analyzes **90K+ retail transactions** to uncover customer behavior,
 ## 🔗 Links
 - [GitHub Repository](#)  
 - [Power BI Dashboard](#)  
+
+---
