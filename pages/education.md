@@ -14,3 +14,5 @@ permalink: /education/
 
 - **Bachelor of Commerce (2021)**  
   Delhi University, Delhi, India | GPA: 3.4  
+
+---
