@@ -20,5 +20,3 @@ permalink: /experience/
 - Resolved **20+ customer issues daily**.  
 - Achieved **95%+ stock accuracy**.  
 - Managed transactions with **99% accuracy**.
-
----
