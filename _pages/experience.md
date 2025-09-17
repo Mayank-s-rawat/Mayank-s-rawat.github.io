@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Experience"
+title: "💼 Experience"
 permalink: /experience/
 ---
-
-# 💼 Experience
 
 ## Junior Data Analyst – Kumon India & Sri Lanka  
 *Delhi, India | Mar 2022 – Mar 2023*  
