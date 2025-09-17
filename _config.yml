@@ -32,7 +32,8 @@ collections:
     permalink: /projects/:path/
 
 include:
-  - _pages   # ✅ ensures Jekyll processes the _pages folder
+  - _pages      # ✅ include extra pages
+  - _projects   # ✅ include project collection folder
 
 plugins:
   - jekyll-remote-theme
