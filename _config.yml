@@ -20,12 +20,6 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/mayank-s-rawat"
 
-header_pages:
-  - index.md
-  - _pages/projects.md
-  - _pages/experience.md
-  - _pages/education.md
-
 collections:
   projects:
     output: true
