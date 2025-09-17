@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Education"
+title: "🎓 Education
 permalink: /education/
 ---
-
-# 🎓 Education
 
 - **Post Graduate Diploma – Data Analytics (2024)**  
   Durham College, Oshawa, ON | GPA: 3.5  
