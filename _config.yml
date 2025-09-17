@@ -1,7 +1,7 @@
 title: "Mayank Singh Rawat"
 email: "mayanks.rawat18@gmail.com"
 description: "Data Analyst Portfolio – SQL | Python | Power BI"
-baseurl: ""
+baseurl: "" # leave empty since you're deploying to GitHub Pages root
 url: "https://mayank-s-rawat.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -20,10 +20,19 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/mayank-s-rawat"
 
+header_pages:
+  - index.md
+  - _pages/projects.md
+  - _pages/experience.md
+  - _pages/education.md
+
 collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+include:
+  - _pages   # ✅ ensures Jekyll processes the _pages folder
 
 plugins:
   - jekyll-remote-theme
