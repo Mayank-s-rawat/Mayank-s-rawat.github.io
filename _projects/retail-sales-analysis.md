@@ -5,6 +5,7 @@ excerpt: "Analyzed 90K+ transactions with Python, SQL, and Power BI to uncover t
 date: 2024-01-15
 header:
   overlay_image: /assets/images/projects/retail-sales.png
+  overlay_filter: 0.5
   caption: "Retail Transaction Dataset – EDA & BI"
 ---
 
