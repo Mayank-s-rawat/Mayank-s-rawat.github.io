@@ -1,10 +1,10 @@
 ---
 title: "Canadian Job Market Intelligence Dashboard"
 layout: single
-excerpt: "Scraped 2,500+ job postings from Indeed with Python and built a Power BI dashboard for market insights."
 date: 2024-06-10
 header:
   overlay_image: /assets/images/projects/job-market.png
+  verlay_filter: 0.5
   caption: "Canadian Job Market – Data Pipeline & BI"
 ---
 
