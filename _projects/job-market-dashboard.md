@@ -23,7 +23,6 @@ This project provides **market intelligence** using scraped data from Indeed (2,
 - Revealed key trends: top employers, average salary ranges, geographic hiring patterns.  
 
 ## 🔗 Links
-- [GitHub Repository](#)  
-- [Power BI Dashboard](#)  
+- [GitHub Repository](https://github.com/Mayank-s-rawat/Indeed_job_scraping.git) 
 
 ---
