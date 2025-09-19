@@ -24,7 +24,5 @@ This project analyzes **90K+ retail transactions** to uncover customer behavior,
 - Designed Power BI dashboards with KPIs, drill-through, and slicers.  
 
 ## 🔗 Links
-- [GitHub Repository](#)  
-- [Power BI Dashboard](#)  
-
+- [GitHub Repository](https://github.com/Mayank-s-rawat/Retail_Transaction_Analysis.git)
 ---
