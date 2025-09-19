@@ -1,7 +1,6 @@
 ---
 title: "Retail Sales Data Analysis"
 layout: single
-excerpt: "Analyzed 90K+ transactions with Python, SQL, and Power BI to uncover trends, segments, and churn patterns."
 date: 2024-01-15
 header:
   overlay_image: /assets/images/projects/retail-sales.png
