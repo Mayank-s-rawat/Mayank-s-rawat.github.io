@@ -45,7 +45,8 @@ plugins:
   
 defaults:
   - scope:
-      path: ""       # applies to all files
+      path: ""        # applies to all pages
     values:
-      last_modified_at: false
       show_date: false
+      last_modified_at: null   # 🚨 forcefully unset, not "false"
+
