@@ -4,7 +4,7 @@ layout: single
 date: 2024-06-10
 header:
   overlay_image: /assets/images/projects/job-market.png
-  verlay_filter: 0.5
+  overlay_filter: 0.5
   caption: "Canadian Job Market – Data Pipeline & BI"
 ---
 
