@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/projects/job-market.png
   overlay_filter: 0.5
   caption: "Canadian Job Market – Data Pipeline & BI"
+excerpt: ""
 ---
 
 ## Overview
