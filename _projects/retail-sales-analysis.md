@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/projects/retail-sales.png
   overlay_filter: 0.5
   caption: "Retail Transaction Dataset – EDA & BI"
+excerpt: ""
 ---
 
 ## Overview
