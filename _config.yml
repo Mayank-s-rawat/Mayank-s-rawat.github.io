@@ -42,3 +42,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
+  
+defaults:
+  - scope:
+      path: ""       # applies to all files
+    values:
+      last_modified_at: false
+      show_date: false
